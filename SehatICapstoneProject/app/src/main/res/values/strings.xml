@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SehatI</string>
+
+    <string name="tips_polahidup">
+        Masyarakat di Indonesia memiliki kebiasaan buruk baik dalam pola hidupnya
+        maupun menjaga kebersihan lingkungan tempat tinggalnya.Karena hal tersebut
+        dapat menyebabkan permasalahan seperti kesehatan tubuh memburuk, dan
+        mendatangkan bencana. Maka dari Pola hidup sehat menjadi hal penting yang
+        harus diterapkan agar fungsi tubuh tetap terjaga dengan baik. Dengan
+        menerapkan pola hidup yang sehat, harapannya kita akan selalu sehat dan
+        bugar. Saat tubuh sehat, maka segala aktivitas menjadi lebih lancar dan
+        produktifitas meningkat.
+    </string>
+
+    <string name="tips_begadang">
+        Normalnya, waktu tidur untuk orang dewasa adalah 7–9 jam setiap malam. Namun,
+        terkadang banyak aktivitas yang mengharuskan Anda begadang atau tidak tidur
+        semalaman, seperti mengerjakan tugas atau bekerja. Sayangnya, begadang memiliki
+        efek serius bagi kesehatan Anda, baik secara fisik maupun psikologis. Salah satu
+        efek begadang yang terjadi pada Anda adalah penurunan fungsi kognitif. Sebagai
+        contoh, Anda menjadi sering lupa, tidak bisa berkonsentrasi, dan hilang fokus.
+        Kondisi tersebut juga bisa disebut sebagai brain fog.
+    </string>
+
+    <string name="tips_vaksin">
+        Vaksin merupakan produk biologi yang berisi antigen berupa mikroorganisme atau
+        zat yang sudah diolah sedemikian rupa sehingga aman dan jika diberikan kepada
+        seseorang akan membuat kekebalan tubuh secara aktif terhadap suatu penyakit
+        tertentu. Pemerintah terus mengupayakan pelaksaan suntik vaksin Covid-19 untuk
+        seluruh masyarakat di Indonesia.Vaksin memiliki lebih banyak manfaat dibandingkan
+        dengan efek samping yang dihasilkan. Vaksin dapat memberikan antibody yang lebih
+        tinggi dan memberikan proteksi terhadap virus Covid-19.
+    </string>
+
+    <string name="tips_olahraga">
+        Olahraga merupakan hal yang sangat penting dan dibutuhkan oleh tubuh kita. Walaupun
+        kita sudah berusia lanjut tetap membutuhkan yang namanya olahraga olah tubuh. Manfaat
+        olahraga bagi kesehatan jelas sangat banyak dan bisa dirasakan oleh setiap orang. Tak
+        bisa dipungkiri bahwa olahraga menjadi salah satu gaya hidup yang wajib dilakukan
+        setiap orang untuk bisa membuat tubuhnya tetap sehat dan bugar. Meningkatkan daya tahan
+        tubuh, menurunkan kolestrol, mengurangi stres, membakar lemak, meningkatkan imunitas dan
+        mencegah sakit, meningkatkan fungsi otak dan masih banyak lagi.. Berolahraga juga mampu
+        memperlancar peredaran darah dan membakar timbunan lemak dalam tubuh.
+    </string>
+
+    <string name="tips_itirahat">
+        Di zaman modern yang semakin sibuk ini, istirahat yang cukup menjadi hal yang sudah tidak
+        lagi diprioritaskan. Padahal istirahat yang cukup sangat penting untuk membantu menjaga
+        kesehatan dan kesejahteraan kamu secara optimal.Faktanya, tidur sama pentingnya dengan
+        olahraga teratur dan makan makanan yang seimbang. Tidak hanya bisa membuat kamu merasa
+        lebih segar, istirahat yang cukup juga bisa memberikan banyak manfaat kesehatan. Istirahat
+        yang cukup setiap malam sudah dikaitkan dengan sistem kekebalan tubuh yang kuat. Hal itu karena
+        tidur memungkinkan tubuh untuk memperbaiki, meregenerasi, dan memulihkan diri. Tidur memengaruhi
+        banyak aspek dari fungsi otak kamu, termasuk kinerja, kognisi, konsentrasi, memori, dan produktivitas.
+        Orang dengan gangguan tidur seperti insomnia cenderung menunjukkan tanda-tanda depresi.
+    </string>
+</resources>
